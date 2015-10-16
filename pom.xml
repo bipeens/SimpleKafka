@@ -4,10 +4,10 @@
 	http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com</groupId>
-	<artifactId>KafkaClient</artifactId>
+	<artifactId>SimpleKafka</artifactId>
 	<packaging>jar</packaging>
 	<version>1.0</version>
-	<name>KafkaClient</name>
+	<name>SimpleKafka</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
 		<dependency>
